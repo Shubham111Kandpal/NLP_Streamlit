@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+gensim
+scipy
+tensorflow
+numpy
+pytest 
+pytest-cov
